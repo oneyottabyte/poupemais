@@ -6,7 +6,7 @@ if(!defined('PROJECT_DIR')){
 	
 // diretório da aplicacao
 if(!defined('APPLICATION_DIR')){
-	define('APPLICATION_DIR', 'app');
+	define('APPLICATION_DIR', 'public');
 }
 
 // URL enviado

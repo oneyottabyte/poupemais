@@ -1,0 +1,19 @@
+{
+    "name": "kod/poupemais",
+    "description": "Sistema de Controle Financeiro Familiar",
+    "require": {
+        "monolog/monolog": "^3.5"
+    },
+    "license": "CC0-1.0",
+    "autoload": {
+        "psr-4": {
+            "Kod\\Poupemais\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dorian",
+            "email": "dorianc.vieira@gmail.com"
+        }
+    ]
+}
